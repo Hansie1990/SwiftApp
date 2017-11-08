@@ -3,7 +3,7 @@
 //  Swift App
 //
 //  Created by Hans Hoogenboom on 01/11/2017.
-//  Copyright © 2017 Hoogenboomer. All rights reserved.
+//  Copyright © 2017 Hoogenboomer. All rights reserved..
 //
 
 import UIKit
